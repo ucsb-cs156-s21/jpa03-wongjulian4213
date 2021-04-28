@@ -1,7 +1,5 @@
 # jpa03-wongjulian4213
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-wongjulian4213/branch/main/graph/badge.svg?token=I8CZwtH3Gz)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-wongjulian4213)
-
 Repo: https://github.com/ucsb-cs156-s21/jpa03-wongjulian4213/
 
 On Heroku: https://jpa03-cgaucho.herokuapp.com
