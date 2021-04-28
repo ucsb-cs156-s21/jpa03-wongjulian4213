@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-wongjulian4213/
 
-On Heroku: https://jpa03-cgaucho.herokuapp.com
+On Heroku: https://jpa03-wongjulian4213.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-wongjulian4213
 
